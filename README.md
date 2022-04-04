@@ -1,5 +1,10 @@
 # research_square
-# Tech & Tools:
+
+## Tech & Tools:
+-------------------------------
 Python
 MySQL DB Server
 MySQL Workbench
+
+## Description:
+-------------------------------
