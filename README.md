@@ -1,2 +1,5 @@
 # research_square
-Assesment
+# Tech & Tools:
+Python
+MySQL DB Server
+MySQL Workbench
