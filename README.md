@@ -28,3 +28,4 @@ Assignment
 - The transaction_stg staging table is in de-normalized form so that process for raw data dumping can be easier.
 - Data Warehouse tables are normalized and modeled using Star Schema where customer_dim, product_dim are dimensions and order_f is a fact table.
 - Schema and all tables structures, columns, indexes and foreign key definitions are all included in “edw” schema model files **“edw_model.pdf”** and **“edw_model.mwb”**. 
+- The output of SQL for getting Average monthly sales by city is in **“final_output.csv”** file. The related sql is in **“Avg_mnthl_sales.sql”**.
